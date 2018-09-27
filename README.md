@@ -1,0 +1,3 @@
+项目名称为AnalyseA/BtestResult
+原始数据为ab_data
+项目文件内部包含分析过程代码、脚本以及结论
